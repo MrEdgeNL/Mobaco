@@ -1,5 +1,5 @@
 # Mobaco
-Vintage building toy - virtual library of all parts
+Vintage building toy - virtual library of all parts.
 
 ## History
 Mobaco was manufactured by the Dutch company N.V. Plaatmetaalindustrie van Mouwerik en Bal between 1924 and 1961, in Zeist, The Netherlands.
@@ -13,7 +13,7 @@ Structural rigidity comes from horizontal cardboard strips and floor plates that
 The system allows for pitched roofs. There are special gable ends and purlins that form the structural support for the roof. Opposite roof panels interlock at the ridge with hooks, and hang from the ridge beam. There are many roof panel shapes, allowing for complex roof designs.
 With a limited number of parts, elaborate models can be made. Models are pleasing to the eye and have a distinct 19th century look. They are really easy to put together.
 
-Much more information could be found on this extensive [Mobaco website](https://mol8.home.xs4all.nl/MOBACO_Seamonkey/Home.html)
+Much more information could be found on this extensive [Mobaco website](https://mol8.home.xs4all.nl/MOBACO_Seamonkey/Home.html), created by C. Mol.
 
 ## Numbering
 Since the numbering system is not very well organized (sometimes double and sometimes missing numbers).
@@ -43,6 +43,7 @@ STL files could also be used with a STL editor, like 'Microsoft 3D Builder' and 
 All STL files are also converted into the [LDraw](https://ldraw.org/) DAT type files.
 Original, these files are used for creating virtual Lego models, using a editor.
 These DAT files are converted into a library for the free [LeoCAD editor](https://www.leocad.org/).
+(LeoCAD is created by [leozide](https://github.com/leozide/leocad).)
 
 ## STLtoDAT converter
 Also uploaded a Phyton script, for converting binary STL files into DAT files, including META data extracted from the filename.
