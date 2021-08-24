@@ -1,5 +1,6 @@
 # Mobaco
 Vintage building toy - virtual library of all parts.
+<br><img src="https://user-images.githubusercontent.com/66367852/130675242-68ae032c-c97c-4cf9-8ed1-f8d71ee7b658.png" width="25%" height="25%">
 
 ## History
 Mobaco was manufactured by the Dutch company N.V. Plaatmetaalindustrie van Mouwerik en Bal between 1924 and 1961, in Zeist, The Netherlands.
@@ -41,9 +42,13 @@ STL files could also be used with a STL editor, like 'Microsoft 3D Builder' and 
 
 ## LDraw (DAT)
 All STL files are also converted into the [LDraw](https://ldraw.org/) DAT type files.
-Original, these files are used for creating virtual Lego models, using a editor.
-These DAT files are converted into a library for the free [LeoCAD editor](https://www.leocad.org/).
+Original, these files are used for creating virtual Lego like models, using an editor.
+The free [LeoCAD editor](https://www.leocad.org/) is able to import the complete library.
 (LeoCAD is created by [leozide](https://github.com/leozide/leocad).)
+
+Some more information is added:
+* HowToUse_LeoCAD_v0.x.pdf
+* The complete Mobaco city, as advertized: Mobaco_City_v2.ldr
 
 ## STLtoDAT converter
 Also uploaded a Phyton script, for converting binary STL files into DAT files, including META data extracted from the filename.
