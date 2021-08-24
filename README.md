@@ -18,13 +18,13 @@ Much more information could be found on this extensive [Mobaco website](https://
 
 ## Numbering
 Since the numbering system is not very well organized (sometimes double and sometimes missing numbers).
-So I'm including some set identifiers.
+So filenames including some set identifiers:
 
-A filename consists of: x_yyy_z_c, where:
-x: set identifier, see below.
-yyy: original part number (if exists)
-z: name of part, about the same as website.
-c: color of parts. (sometimes set & part number are equal, so the color is the diffentiator.)
+* A filename consists of: x_yyy_z_c, where:
+* x: set identifier, see below.
+* yyy: original part number (if exists)
+* z: name of part, about the same as website.
+* c: color of parts. (sometimes set & part number are equal, so the color is the diffentiator.)
 
 ### Set identifier:
 * M_yyy:  Moubaul range: basically all sets: 000, 00, 0, 1, 2, 3, 4
