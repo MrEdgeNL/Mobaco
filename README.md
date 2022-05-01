@@ -1,6 +1,7 @@
 # Mobaco
 Vintage building toy - virtual library of all parts.
-<br><img src="https://user-images.githubusercontent.com/66367852/130675242-68ae032c-c97c-4cf9-8ed1-f8d71ee7b658.png" width="25%" height="25%">
+<br>![MOBACO_HISTORY](https://user-images.githubusercontent.com/66367852/166149467-00ffb91e-f774-4a01-921c-60c7a00f808f.png)
+
 
 ## History
 Mobaco was manufactured by the Dutch company N.V. Plaatmetaalindustrie van Mouwerik en Bal between 1924 and 1961, in Zeist, The Netherlands.
@@ -20,19 +21,17 @@ Much more information could be found on this extensive [Mobaco website](https://
 Since the numbering system is not very well organized (sometimes double and sometimes missing numbers).
 So filenames including some set identifiers:
 
-* A filename consists of: x_yyy_z_c, where:
+* Filenames consists of: x_yyy_z_c, where:
 * x: set identifier, see below.
 * yyy: original part number (if exists)
 * z: name of part, about the same as website.
 * c: color of parts. (sometimes set & part number are equal, so the color is the diffentiator.)
 
 ### Set identifier:
-* M_yyy:  Moubaul range: basically all sets: 000, 00, 0, 1, 2, 3, 4
-* J_yyy:  Jumbo range: When Jumbo Toy manufacture took the game over, they made it a bit smaller and added a few more parts. (Not used atm.)
+* M_yyy:  Generic Mobaco parts: basically all sets: 000, 00, 0, 1, 2, 3, 4
 * Gy_yyy: There are 3 different garage sets: Garage No.1, Garage No.2, Garage Small. Some parts are used for both No.1 & No.2 and referd as Gx_yyy
 * Wx_yyy: For the 2 special sets: Windmill No.1, Windmill No.2
 * Z_yyy:  Special Model Z. Mobaco did advertize with this one, but it's never produced.
-* SP_yyy: Special parts, like 2 different windows found on brochures.
 * U_yyy:  Identifier for user parts.
 
 ## STL's
@@ -47,8 +46,8 @@ The free [LeoCAD editor](https://www.leocad.org/) is able to import the complete
 (LeoCAD is created by [leozide](https://github.com/leozide/leocad).)
 
 Some more information is added:
-* HowToUse_LeoCAD_v0.x.pdf
-* The complete Mobaco city, as advertized: Mobaco_City_v2.ldr
+* HowToUse_LeoCAD_v0.3.pdf
+* All buildings in picture above, are included in zip file.
 
 ## STLtoDAT converter
 Also uploaded a Phyton script, for converting binary STL files into DAT files, including META data extracted from the filename.
