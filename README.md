@@ -15,7 +15,7 @@ Structural rigidity comes from horizontal cardboard strips and floor plates that
 The system allows for pitched roofs. There are special gable ends and purlins that form the structural support for the roof. Opposite roof panels interlock at the ridge with hooks, and hang from the ridge beam. There are many roof panel shapes, allowing for complex roof designs.
 With a limited number of parts, elaborate models can be made. Models are pleasing to the eye and have a distinct 19th century look. They are really easy to put together.
 
-Much more information could be found on this extensive [Mobaco website](https://mol8.home.xs4all.nl/MOBACO_Seamonkey/Home.html), created by C. Mol.
+Much more information could be found on this extensive [Mobaco website](https://www.mobaco.nl), created by C. Mol.
 
 ## Numbering
 Since the numbering system is not very well organized (sometimes double and sometimes missing numbers).
@@ -34,13 +34,8 @@ So filenames including some set identifiers:
 * Z_yyy:  Special Model Z. Mobaco did advertize with this one, but it's never produced.
 * U_yyy:  Identifier for user parts.
 
-## STL's
-All parts are generated in a CAD package and convert to STL.
-This makes it easier to export to other libraries or 3d print a couple.
-STL files could also be used with a STL editor, like 'Microsoft 3D Builder' and saved in 3MF format, including colors.
-
 ## LDraw (DAT)
-All STL files are also converted into the [LDraw](https://ldraw.org/) DAT type files.
+All STL files are converted into the [LDraw](https://ldraw.org/) DAT type files.
 Original, these files are used for creating virtual Lego like models, using an editor.
 The free [LeoCAD editor](https://www.leocad.org/) is able to import the complete library.
 (LeoCAD is created by [leozide](https://github.com/leozide/leocad).)
@@ -48,6 +43,3 @@ The free [LeoCAD editor](https://www.leocad.org/) is able to import the complete
 Some more information is added:
 * HowToUse_LeoCAD_v0.3.pdf
 * All buildings in picture above, are included in zip file.
-
-## STLtoDAT converter
-Also uploaded a Phyton script, for converting binary STL files into DAT files, including META data extracted from the filename.
